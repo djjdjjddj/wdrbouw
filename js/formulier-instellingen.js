@@ -10,5 +10,5 @@
   met het bericht al ingevuld, zodat er nooit een aanvraag verloren gaat.
 */
 window.WDR_FORMULIER = {
-  web3formsKey: ""
+  web3formsKey: "4cb083e5-a96d-4f91-b6cf-93e83308266b"
 };
